@@ -1,0 +1,267 @@
+index,division,district,pac,nac,const
+1,Malakand,Upper Chitral,PK-1 Upper Chitral,NA-1 Chitral,NA-1
+3,,Swat,PK-3 Swat-I,NA-2 Swat-I,NA-2
+5,,,PK-5 Swat-III,NA-3 Swat-II,NA-3
+7,,,PK-7 Swat-V,NA-4 Swat-III,NA-4
+10,,Upper Dir,PK-10 (Upper Dir-I),NA-5 Upper Dir,NA-5
+13,,Lower Dir,PK-13 Lower Dir-I),NA-6 Lower Dir-I,NA-6
+16,,,PK-16 Lower Dir-IV,NA-7 Lower Dir-II,NA-7
+18,,Bajaur,PK-18 (Bajaur-I),NA-8 (Bajaur),NA-8
+21,,Malakand,PK-21 (Malakand-I),NA-9 (Malakand),NA-9
+23,,Buner,PK-23 (Buner-I),NA-10 (Buner),NA-10
+26,,Shangla,PK-26 (Shangla-I),NA-11 (Shangla),NA-11
+28,Hazara,Upper Kohistan,PK-28 (Upper Kohistan),NA-12 (Kohistan-cum-Lower Kohistan-cum-Kolai Palas Kohistan),NA-12
+31,,Battagram,PK-31 (Battagram-I),NA-13 (Battagram),NA-13
+33,,Mansehra,PK-33 (Mansehra-I),NA-14 (Mansehra-I),NA-14
+35,,,PK-35 (Mansehra-III),NA-15 (Mansehra-cum-Torghar),NA-15
+39,,Abbottabad,PK-39 (Abbottabad-I),NA-16 (Abbottabad-I),NA-16
+41,,,PK-40 (Abbottabad-II),NA-17 (Abbottabad-II),NA-17
+43,,Haripur,PK-43 (Haripur-I),NA-18 (Haripur),NA-18
+46,Mardan,Swabi,PK-46 (Swabi-I),NA-19 (Swabi-I),NA-19
+49,,,PK-49 (Swabi-IV),NA-20 (Swabi-II),NA-20
+51,,Mardan,PK-51 (Mardan-I),NA-21 (Mardan-I),NA-21
+53,,,PK-53 (Mardan-III),NA-22 (Mardan-II),NA-22
+56,,,PK-56 (Mardan-VI),NA-23 (Mardan-III),NA-23
+59,Peshawar,Charsadda,PK-59 (Charsadda-I),NA-24 (Charsadda-I),NA-24
+61,,,PK-60 (Charsadda-II),NA-25 (Charsadda-II),NA-25
+64,,Mohmand,PK-64 (Mohmand-I),NA-26 (Mohmand),NA-26
+66,,Khyber,PK-66 (Khyber-I),NA-27 (Khyber),NA-27
+69,,Peshawar,PK-69 (Peshawar-I),NA-28 (Peshawar-I),NA-28
+72,,,PK-72 (Peshawar-IV),NA-29 (Peshawar-II),NA-29
+74,,,PK-73 (Peshawar-V),NA-30 (Peshawar-III),NA-30
+77,,,PK-76 (Peshawar-VIII),NA-31 (Peshawar-IV),NA-31
+80,,,PK-79 (Peshawar-XI),NA-32 (Peshawar-V),NA-32
+83,,Nowshera,PK-83 (Nowshera-I),NA-33 (Nowshera-I),NA-33
+86,,,PK-86 (Nowshera-IV),NA-34 (Nowshera-II),NA-34
+88,Kohat,Kohat,PK-88 (Kohat-I),NA-35 (Kohat),NA-35
+92,,Hangu,PK-92 (Hangu-I),NA-36 (Hangu-cum-Orakzai),NA-36
+95,,Kurram,PK-95 (Kurram-I),NA-37 (Kurram),NA-37
+97,,Karak,PK-97 (Karak-I),NA-38 (Karak),NA-38
+99,Bannu,Bannu,PK-99 (Bannu-I),NA-39 (Bannu),NA-39
+103,,North Waziristan,PK-103 (North Waziristan-I),NA-40 (North Waziristan),NA-40
+105,,Lakki Marwat,PK-105 (Lakki Marwat-I),NA-41 (Lakki Marwat),NA-41
+108,D.I Khan,Tank,PK-108 (Tank),NA-42 (Tank),NA-42
+109,,Lower South Waziristan,PK-109 (Lower South Waziristan),NA-43 (South Waziristan),NA-43
+111,,Dera Ismail Khan,PK-111 (Dera Ismail Khan-I),NA-44 (Dera Ismail Khan-I),NA-44
+114,,,PK-114 (Dera Ismail Khan-IV),NA-45 (Dera Ismail Khan-II),NA-45
+117,-,Islamabad,-,NA-46 (Islamabad-I),NA-46
+118,,,,NA-47 (Islamabad-II),NA-47
+119,,,,NA-48 (Islamabad-III),NA-48
+121,Rawalpindi,Attock,PP-1 Attock-I,NA-49 (Attock-I),NA-49
+123,,,PP-3 Attock-III,NA-50 (Attock-II),NA-50
+126,,Murree,PP-6 Murree,NA-51 (Murree-cum-Rawalpindi),NA-51
+128,,,PP-8 Rawalpindi-II,NA-52 Rawalpindi-I,NA-52
+130,,,PP-10 Rawalpindi-IV,NA-53 Rawalpindi-II,NA-53
+133,,,PP-11 Rawalpindi-V,NA-54 Rawalpindi-III,NA-54
+134,,,PP-14 Rawalpindi-VIII,NA-55 Rawalpindi-IV,NA-55
+136,,,PP-16 Rawalpindi-X,NA-56 Rawalpindi-V,NA-56
+139,,,PP-19 Rawalpindi-XIII,NA-57 Rawalpindi-VI,NA-57
+141,,Chakwal,PP-21 Chakwal-I,NA-58 (Chakwal-I),NA-58
+143,,Jhelum,PP-25 Jhelum-I,NA-60 (Jhelum-I),NA-60
+144,,,PP-26 Jhelum-II,NA-61 (Jhelum-II),NA-61
+146,Mianwali,Talagang,PP-23 Chakwal-cum-Talagang,NA-59 Chakwal cum Talagang,NA-59
+148,Gujrat,Gujrat,PP-28 Gujrat-I,NA-62 (Gujrat-I),NA-62
+150,,,PP-31 Gujrat-IV,NA-63 (Gujrat-II),NA-63
+152,,,PP-30 Gujrat-III,NA-64 (Gujrat-III),NA-64
+153,,,PP-33 Gujrat-VI,NA-65 (Gujrat-IV),NA-65
+155,,Wazirabad,PP-51 Wazirabad-I,NA-73 Wazirabad,NA-73
+157,,Mandi Bahauddin,PP-65 Mandi Bahauddin-I,NA-79 (Mandi Bahauddin-I),NA-79
+159,,,PP-67 Mandi Bahauddin-III,NA-80 (Mandi Bahauddin-II),NA-80
+161,,Hafizabad,PP-69 Hafizabad-I,NA-81 Hafizabad,NA-81
+164,Gujranwala,Sialkot,PP-35 Sialkot-I,NA-66 (Sialkot-I),NA-66
+167,,,PP-37 Sialkot-III,NA-67 (Sialkot-II),NA-67
+169,,,PP-40 Sialkot-VI,NA-68 (Sialkot-III),NA-68
+171,,,PP-42 Sialkot-VIII,NA-69 (Sialkot-IV),NA-69
+173,,,PP-44 Sialkot-X,NA-70 (Sialkot-V),NA-70
+175,,Narowal,PP-46 Narowal-I,NA-71 (Narowal-I),NA-71
+177,,,PP-48 Narowal-III,NA-72 (Narowal-II),NA-72
+180,,Gujranwala,PP-53 Gujranwala-I,NA-74 Gujranwala-I,NA-74
+182,,,PP-55 Gujranwala-III,NA-75 Gujranwala-II,NA-75
+185,,,PP-58 Gujranwala-VI,NA-76 Gujranwala-III,NA-76
+187,,,PP-60 Gujranwala-VIII,NA-77 Gujranwala-IV,NA-77
+189,,,PP-61 Gujranwala-IX,NA-78 Gujranwala-V,NA-78
+192,Sargodha,Sargodha,PP-72 Sargodha-I,NA-82 (Sargodha-I),NA-82
+194,,,PP-74 Sargodha-III,NA-83 (Sargodha-II),NA-83
+196,,,PP-76 Sargodha-V,NA-84 (Sargodha-III),NA-84
+198,,,PP-78 Sargodha-VII,NA-85 (Sargodha-IV),NA-85
+200,,,PP-80 Sargodha-IX,NA-86 (Sargodha-V),NA-86
+202,,Khushab,PP-82 Khushab-I,NA-87 (Khushab-I),NA-87
+203,,,PP-83 Khushab-II,NA-88 (Khushab-II),NA-88
+205,Mianwali,Mianwali,PP-85 Mianwali-I,NA-89 (Mianwali-I),NA-89
+207,,,PP-87 Mianwali-III,NA-90 (Mianwali-II),NA-90
+209,,Bhakkar,PP-89 Bhakkar-I,NA-91 (Bhakkar-I),NA-91
+211,,,PP-90 Bhakkar-II,NA-92 (Bhakkar-II),NA-92
+213,Faisalabad,Chiniot,PP-93 Chiniot-I,NA-93 (Chiniot-I),NA-93
+215,,,PP-94 Chiniot-II,NA-94 (Chiniot-II),NA-94
+217,,Faisalabad,PP-97 Faisalabad-I,NA-95 (Faisalabad-I),NA-95
+219,,,PP-99 Faisalabad-III,NA-96 (Faisalabad-II),NA-96
+221,,,PP-101 Faisalabad-V,NA-97 (Faisalabad-III),NA-97
+223,,,PP-103 Faisalabad-VII,NA-98 (Faisalabad-IV),NA-98
+225,,,PP-105 Faisalabad-IX,NA-99 (Faisalabad-V),NA-99
+227,,,PP-107 Faisalabad-XI,NA-100 (Faisalabad-VI),NA-100
+229,,,PP-112 Faisalabad-XVI,NA-101 (Faisalabad-VII),NA-101
+231,,,PP-114 Faisalabad-XVIII,NA-102 (Faisalabad-VIII),NA-102
+233,,,PP-116 Faisalabad-XX,NA-103 (Faisalabad-IX),NA-103
+235,,,PP-109 Faisalabad-XIII,NA-104 (Faisalabad-X),NA-104
+238,,Toba Tek Singh,PP-118 Toba Tek Singh-I,NA-105 (Toba Tek Singh-I),NA-105
+240,,,PP-120 Toba Tek Singh-III,NA-106 (Toba Tek Singh-II),NA-106
+242,,,PP-122 Toba Tek Singh-V,NA-107 (Toba Tek Singh-III),NA-107
+244,,Jhang,PP-124 Jhang-I,NA-108 (Jhang-I),NA-108
+246,,,PP-125 Jhang-II,NA-109 (Jhang-II),NA-109
+249,,,PP-128 Jhang-V,NA-110 (Jhang-III),NA-110
+251,Lahore,Nankana Sahib,PP-131 Nankana Sahib-I,NA-111 (Nankana Sahib-I),NA-111
+253,,,PP-133 Nankana Sahib-III,NA-112 (Nankana Sahib-II),NA-112
+255,,Sheikhupura,PP-135 Sheikhupura-I,NA-113 (Sheikhupura-I),NA-113
+257,,,PP-137 Sheikhupura-III,NA-114 (Sheikhupura-II),NA-114
+260,,,PP-140 Sheikhupura-VI,NA-115 (Sheikhupura-III),NA-115
+262,,,PP-142 Sheikhupura-VIII,NA-116 (Sheikhupura-IV),NA-116
+264,,Lahore,PP-144 Lahore-I,NA-117 (Lahore-I),NA-117
+266,,,PP-146 Lahore-III,NA-118 (Lahore-II),NA-118
+268,,,PP-150 Lahore-VII,NA-119 (Lahore-III),NA-119
+270,,,PP-148 Lahore-V,NA-120 (Lahore-IV),NA-120
+272,,,PP-152 Lahore-IX,NA-121 (Lahore-V),NA-121
+275,,,PP-153 Lahore-X,NA-122 (Lahore-VI),NA-122
+277,,,PP-156 Lahore-XIII,NA-123 (Lahore-VII),NA-123
+279,,,PP-158 Lahore-XV,NA-124 (Lahore-VIII),NA-124
+281,,,PP-164 Lahore-XXI,NA-125 (Lahore-IX),NA-125
+283,,,PP-166 Lahore-XXIII,NA-126 (Lahore-X),NA-126
+285,,,PP-159 Lahore-XVI,NA-127 (Lahore-XI),NA-127
+287,,,PP-160 Lahore-XVII,NA-128 (Lahore-XII),NA-128
+290,,,PP-170 Lahore-XXVII,NA-129 (Lahore-XIII),NA-129
+292,,,PP-172 Lahore-XXIX,NA-130 (Lahore-XIV),NA-130
+294,,Kasur,PP-176 Kasur-III,NA-131 (Kasur-I),NA-131
+296,,,PP-174 Kasur-I,NA-132 (Kasur-II),NA-132
+298,,,PP-178 Kasur-V,NA-133 (Kasur-III),NA-133
+301,,,PP-181 Kasur-VIII,NA-134 (Kasur-IV),NA-134
+303,Sahiwal,Okara,PP-183 Okara-I,NA-135 (Okara-I),NA-135
+305,,,PP-185 Okara-III,NA-136 (Okara-II),NA-136
+307,,,PP-187 Okara-V,NA-137 (Okara-III),NA-137
+309,,,PP-189 Okara-VII,NA-138 (Okara-IV),NA-138
+311,,Pakpattan,PP-191 Pakpattan-I,NA-139 (Pakpattan-I),NA-139
+314,,,PP-194 Pakpattan-IV,NA-140 (Pakpattan-II),NA-140
+316,,Sahiwal,PP-196 Sahiwal-I,NA-141 (Sahiwal-I),NA-141
+318,,,PP-198 Sahiwal-III,NA-142 (Sahiwal-II),NA-142
+321,,,PP-201 Sahiwal-VI,NA-143 (Sahiwal-III),NA-143
+323,Multan,Khanewal,PP-203 Khanewal-I,NA-144 (Khanewal-I),NA-144
+325,,,PP-205 Khanewal-III,NA-145 (Khanewal-II),NA-145
+327,,,PP-207 Khanewal-V,NA-146 (Khanewal-III),NA-146
+329,,,PP-209 Khanewal-VII,NA-147 (Khanewal-IV),NA-147
+331,,Multan,PP-211 Multan-I,NA-148 (Multan-I),NA-148
+333,,,PP-214 Multan-IV,NA-149 (Multan-II),NA-149
+335,,,PP-213 Multan-III,NA-150 (Multan-III),NA-150
+338,,,PP-218 Multan-VIII,NA-151 (Multan-IV),NA-151
+340,,,PP-220 Multan-X,NA-152 (Multan-V),NA-152
+342,,,PP-222 Multan-XII,NA-153 (Multan-VI),NA-153
+344,,Lodhran,PP-224 Lodhran-I,NA-154 (Lodhran-I),NA-154
+347,,,PP-227 Lodhran-IV,NA-155 (Lodhran-II),NA-155
+349,,Vehari,PP-229 Vehari-I,NA-156 (Vehari-I),NA-156
+351,,,PP-231 Vehari-III,NA-157 (Vehari-II),NA-157
+353,,,PP-233 Vehari-V,NA-158 (Vehari-III),NA-158
+355,,,PP-235 Vehari-VII,NA-159 (Vehari-IV),NA-159
+357,Bahawalpur,Bahawalnagar,PP-237 Bahawalnagar-I,NA-160 (Bahawalnagar-I),NA-160
+359,,,PP-239 Bahawalnagar-III,NA-161 (Bahawalnagar-II),NA-161
+361,,,PP-243 Bahawalnagar-VII,NA-162 (Bahawalnagar-III),NA-162
+363,,,PP-241 Bahawalnagar-V,NA-163 (Bahawalnagar-IV),NA-163
+365,,Bahawalpur,PP-245 Bahawalpur-I,NA-164 (Bahawalpur-I),NA-164
+367,,,PP-247 Bahawalpur-III,NA-165 (Bahawalpur-II),NA-165
+369,,,PP-249 Bahawalpur-V,NA-166 (Bahawalpur-III),NA-166
+371,,,PP-251 Bahawalpur-VII,NA-167 (Bahawalpur-IV),NA-167
+373,,,PP-253 Bahawalpur-IX,NA-168 (Bahawalpur-V),NA-168
+375,,Rahim Yar Khan,PP-255 Rahim Yar Khan-I,NA-169 (Rahim Yar Khan-I),NA-169
+377,,,PP-257 Rahim Yar Khan-III,NA-170 (Rahim Yar Khan-II),NA-170
+379,,,PP-259 Rahim Yar Khan-V,NA-171 (Rahim Yar Khan-III),NA-171
+382,,,PP-262 Rahim Yar Khan-VIII,NA-172 (Rahim Yar Khan-IV),NA-172
+384,,,PP-266 Rahim Yar Khan-XII,NA-173 (Rahim Yar Khan-V),NA-173
+386,,,PP-264 Rahim Yar Khan-X,NA-174 (Rahim Yar Khan-VI),NA-174
+388,Dera Ghazi Khan,Kot Addu,PP-268 Kot Addu-I,NA-175 (Muzaffargarh-I),NA-175
+390,,,PP-270 Kot Addu-III,NA-176 (Muzaffargarh-II),NA-176
+392,,,PP-272 Muzaffargarh-II,NA-177 (Muzaffargarh-III),NA-177
+394,,,PP-274 Muzaffargarh-IV,NA-178 (Muzaffargarh-IV),NA-178
+396,,,PP-276 Muzaffargarh-VI,NA-179 (Muzaffargarh-V),NA-179
+398,,,PP-278 Muzaffargarh-VIII,NA-180 (Muzaffargarh-VI),NA-180
+400,,Layyah,PP-280 Layyah-I,NA-181 (Layyah-I),NA-181
+403,,,PP-283 Layyah-IV,NA-182 (Layyah-II),NA-182
+405,,Taunsa,PP-285 Taunsa-I,NA-183 (Dera Ghazi Khan-I),NA-183
+407,,,PP-287 Taunsa-III,NA-184 (Dera Ghazi Khan-II),NA-184
+409,,,PP-289 Dera Ghazi Khan-II,NA-185 (Dera Ghazi Khan-III),NA-185
+411,,,PP-291 Dera Ghazi Khan-IV,NA-186 (Dera Ghazi Khan-IV),NA-186
+413,,Jampur,PP-293 Jampur-I,NA-187 (Jampur),NA-187
+414,,,PP-294 Jampur-II,NA-188 (Jampur-cum-Rajanpur,NA-188
+416,,,PP-296 Rajanpur-II,NA-189 (Rajanpur),NA-189
+419,Larkana,Jacobabad,PS-1 Jacobabad-I,NA-190 (Jacobabad),NA-190
+422,,Kashmore,PS-4 Kashmore-I,NA-191 (Kashmore),NA-191
+425,,Shikarpur,PS-7 Shikarpur-I,NA-192 (Shikarpur-I),NA-192
+427,,,PS-9 Shikarpur-III,NA-193 (Shikarpur-II),NA-193
+428,,Larkana,PS-10 Larkana-I,NA-194 (Larkana-I),NA-194
+430,,,PS-12 Larkana-III,NA-195 (Larkana-II),NA-195
+432,,Qambar Shahdadkot,PS-14 Qambar Shahdadkot-I,NA-196 (Qambar Shahdadkot-I),NA-196
+434,,,PS-16 Qambar Shahdadkot-III,NA-197 (Qambar Shahdadkot-II),NA-197
+436,Sukkur,Ghotki,PS-18 Ghotki-I,NA-198 (Ghotki-I),NA-198
+438,,,PS-20 Ghotki-III,NA-199 (Ghotki-II),NA-199
+440,,Sukkur,PS-22 Sukkur-I,NA-200 (Sukkur-I),NA-200
+442,,,PS-24 Sukkur-III,NA-201 (Sukkur-II),NA-201
+444,,Khairpur,PS-26 Khairpur-I,NA-202 (Khairpur-I),NA-202
+446,,,PS-28 Khairpur-III,NA-203 (Khairpur-II),NA-203
+448,,,PS-30 Khairpur-V,NA-204 (Khairpur-III),NA-204
+451,Nawabshah,Naushahro Feroze,PS-33 Naushahro Feroze-I,NA-205 (Naushahro Feroze-I),NA-205
+453,,,PS-35 Naushahro Feroze-III,NA-206 (Naushahro Feroze-II),NA-206
+455,,Nawabshah,NA-37 Nawabshah-I,NA-207 (Nawabshah-I),NA-207
+457,,,NA-39 Nawabshah-III,NA-208 (Nawabshah-II),NA-208
+459,,Sanghar,PS-41 Sanghar-I,NA-209 (Sanghar-I),NA-209
+461,,,PS-43 Sanghar-III,NA-210 (Sanghar-II),NA-210
+463,,,PS-45 Sanghar-V,NA-211 (Sanghar-III),NA-211
+465,Mirpur Khas,Mirpur Khas,PS-47 Mirpur Khas-I,NA-212 (Mirpur Khas-I),NA-212
+467,,,PS-49 Mirpur Khas-III,NA-213 (Mirpur Khas-II),NA-213
+469,,Umerkot,PS-51 Umerkot-I,NA-214 (Umerkot),NA-214
+472,,Tharparkar,PS-54 Tharparkar-I,NA-215 (Tharparkar-I),NA-215
+474,,,PS-56 Tharparkar-III,NA-216 (Tharparkar-II),NA-216
+476,Hyderabad,Matiari,PS-58 Matiari-I,NA-217 (Matiari),NA-217
+478,,Tando Allahyar,PS-60 Tando Allahyar-I,NA-218 (Tando Allahyar),NA-218
+480,,Hyderabad,PS-62 Hyderabad-I,NA-219 (Hyderabad-I),NA-219
+482,,,PS-64 Hyderabad-III,NA-220 (Hyderabad-II),NA-220
+484,,,PS-66 Hyderabad-V,NA-221 (Hyderabad-III),NA-221
+486,,Tando Muhammad Khan,PS-68 Tando Muhammad Khan-I,NA-222 (Tando Muhammad Khan),NA-222
+488,,Jamshoro,PS-80 Jamshoro-I,NA-227 (Jamshoro),NA-227
+491,,Dadu,PS-83 Dadu-I,NA-228 (Dadu-I),NA-228
+493,,,PS-85 Dadu-III,NA-229 (Dadu-II),NA-229
+495,Bhanbore,Badin,PS-70 Badin-I,NA-223 (Badin-I),NA-223
+498,,,,NA-224 (Badin-II),NA-224
+501,,Sujawal,PS-75 Sujawal-I,NA-225 (Sujawal),NA-225
+503,,Thatta,PS-77 Thatta-I,NA-226 (Thatta),NA-226
+506,Karachi,Malir,PS-87 Malir-I,NA-230 (Malir-I),NA-230
+508,,,PS-89 Malir-III,NA-231 (Malir-II),NA-231
+510,,,PS-91 Malir-V,NA-232 (Malir-III),NA-232
+511,,Korangi,PS-92 Korangi Karachi-I,NA-233 (Korangi Karachi-I),NA-233
+513,,,PS-94 Korangi Karachi-III,NA-234 (Korangi Karachi-II),NA-234
+516,,,PS-97 Korangi Karachi-VI,NA-235 (Korangi Karachi-III),NA-235
+518,,Karachi East,PS-99 Karachi East-I,NA-236 (Karachi East-I),NA-236
+520,,,PS-101 Karachi East-III,NA-237 (Karachi East-II),NA-237
+522,,,PS-103 Karachi East-V,NA-238 (Karachi East-III),NA-238
+524,,,PS-105 Karachi East-VII,NA-239 (Karachi East-IV),NA-239
+526,,Karachi South,PS-107 Karachi South-I,NA-240 (Karachi South-I),NA-240
+529,,,PS-110 Karachi South-IV,NA-241 (Karachi South-II),NA-241
+531,,Keamari,PS-112 Keamari-I,NA-242 (Keamari-I),NA-242
+534,,,,NA-243 (Keamari-II),NA-243
+537,,Karachi West,PS-117 Karachi West-I,NA-244 (Karachi West-I),NA-244
+539,,,PS-119 Karachi West-III,NA-245 (Karachi West-II),NA-245
+541,,,PS-121 Karachi West-V,NA-246 (Karachi West-III),NA-246
+543,,Karachi Central,PS-123 Karachi Central-I,NA-247 (Karachi Central-I),NA-247
+545,,,PS-125 Karachi Central-III,NA-248 (Karachi Central-II),NA-248
+547,,,PS-127 Karachi Central-V,NA-249 (Karachi Central-III),NA-249
+549,,,PS-129 Karachi Central-VII,NA-250 (Karachi Central-IV),NA-250
+552,Zhob,Sherani,PB-1 Sherani Cum Zhob,NA-251 (Killa Saifullah-cum-Zhob-cum-Sherani),NA-251
+556,Loralai,Musakhel,PB-4 Musakhel cum Barkhan,NA-252 (Loralai-cum-Musakhel-cum-Duki-cum-Barkhan),NA-252
+560,Sibi,Harnai,PB-7 (Ziarat cum Harnai),NA-253 (Harnai-cum-Sibbi-cum-Kohlu-cum-Dera Bugti),NA-253
+564,Nasirabad,Jhal Magsi,PB-11 Jhal Magsi,NA-254 (Nasirabad-cum-Kachhi-cum-Jhal Magsi),NA-254
+568,,Sohbatpur,PB-15 Sohbatpur,NA-255 (Jafarabad-cum-Sohbatpur),NA-255
+571,Makran,Gwadar,PB-24 Gwadar,NA-258 (Gwadar-cum-Kech),NA-258
+574,,,PB-27 Kech-III,NA-259 (Panjgur-cum-Kech),NA-259
+577,Kalat,Khuzdar,PB-18 Khuzdar-I,NA-256 (Khuzdar),NA-256
+580,,Hub,PB-21 Hub,NA-257 (Awaran-cum-Lasbela),NA-257
+583,,Surab,PB-34 Surab,NA-261 (Mastung-cum-Surab-cum-Kalat),NA-261
+586,Rakhshan,Washuk,PB-29 Washuk,NA-260 (Chagai-cum-Nushki-cum-Kharan-cum-Washuk),NA-260
+590,Quetta,Quetta,PB-37 Quetta-I,NA-262 (Quetta-I),NA-262
+593,,,PB-42 Quetta-VI,NA-263 (Quetta-II),NA-263
+596,,,PB-40 Quetta-IV,NA-264 (Quetta-III),NA-264
+599,,Ziarat,PB-7 Ziarat cum Harnai,NA-265 (Ziarat-cum-Pishin),NA-265
+603,,Killa Abdullah,PB-49 Killa Abdullah,NA-266 (Killa Abdullah-cum-Chaman),NA-266
